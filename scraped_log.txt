@@ -1,124 +1,120 @@
 Navigation Log
 ==================================================
 
-Bagging vs Boosting in Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Linear Regression in Machine learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Community ==> scraped
-Bagging vs Boosting in Machine Learning -> Copyright Information - GeeksforGeeks ==> scraped
-Bagging vs Boosting in Machine Learning -> Apriori Algorithm ==> scraped
-Bagging vs Boosting in Machine Learning -> Top 50+ Machine Learning Interview Questions and Answers ==> scraped
-Bagging vs Boosting in Machine Learning -> Random Forest Algorithm in Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> K-Nearest Neighbor(KNN) Algorithm ==> scraped
-Bagging vs Boosting in Machine Learning -> Introduction to Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> AI, ML and Data Science Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> Cross Validation in Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> GeeksforGeeks | Your All-in-One Learning Portal ==> scraped
-Bagging vs Boosting in Machine Learning -> Ensemble Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Offline Courses | GeeksforGeeks ==> scraped
-Bagging vs Boosting in Machine Learning -> System Design Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> DSA Tutorial - Learn Data Structures and Algorithms ==> scraped
-Bagging vs Boosting in Machine Learning -> Implementing the AdaBoost Algorithm From Scratch ==> scraped
-Bagging vs Boosting in Machine Learning -> AI, ML and Data Science Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> DBSCAN Clustering in ML - Density based clustering ==> scraped
-Bagging vs Boosting in Machine Learning -> Contact Us - GeeksforGeeks ==> scraped
-Bagging vs Boosting in Machine Learning -> NumPy Tutorial - Python Library ==> scraped
-Bagging vs Boosting in Machine Learning -> About us - GeeksforGeeks ==> scraped
-Bagging vs Boosting in Machine Learning -> GATE Exam Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> Frequently Asked Questions ==> scraped
-Bagging vs Boosting in Machine Learning -> GBlog ==> scraped
-Bagging vs Boosting in Machine Learning -> Logistic Regression in Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Natural Language Processing (NLP) Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> Software and Tools Directory ==> scraped
-Bagging vs Boosting in Machine Learning -> Evaluation Metrics in Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Data Science Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> Decision Tree in Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Mean, Variance and Standard Deviation ==> scraped
-Bagging vs Boosting in Machine Learning -> School Tutorials ==> scraped
-Bagging vs Boosting in Machine Learning -> Data Preprocessing in Python ==> scraped
-Bagging vs Boosting in Machine Learning -> ECLAT Algorithm - ML ==> scraped
-Bagging vs Boosting in Machine Learning -> Hyperparameter Tuning ==> scraped
-Bagging vs Boosting in Machine Learning -> Support Vector Machine (SVM) Algorithm ==> scraped
-Bagging vs Boosting in Machine Learning -> Job Portal by GfG ==> scraped
-Bagging vs Boosting in Machine Learning -> AdaBoost in Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Legal - GeeksforGeeks ==> scraped
-Bagging vs Boosting in Machine Learning -> GATE Exam Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> 100+ Machine Learning Projects with Source Code [2025] ==> scraped
-Bagging vs Boosting in Machine Learning -> A Mission To Upskill The Nation  - FREE Learning! ==> scraped
-Bagging vs Boosting in Machine Learning -> Applications of Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> DSA 360 ==> scraped
-Bagging vs Boosting in Machine Learning -> Reinforcement Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> DevOps Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> Machine Learning Algorithms ==> scraped
-Bagging vs Boosting in Machine Learning -> GeeksforGeeks CoursesInteractive LIVE & Self-Paced Courses08069289001 ==> scraped
-Bagging vs Boosting in Machine Learning -> GeeksforGeeks Corporate Solution - GeeksforGeeks ==> scraped
-Bagging vs Boosting in Machine Learning -> Course CatalogInteractive LIVE & Self-Paced Courses with Individual Attention by Industry Leading Gurus to Encourage Out-of-the-box thinking, leading to Clarity in Concepts, Creativity and Innovative Ideas.08069289001 ==> scraped
-Bagging vs Boosting in Machine Learning -> Aptitude Questions and Answers ==> scraped
-Bagging vs Boosting in Machine Learning -> Interview Corner ==> scraped
-Bagging vs Boosting in Machine Learning -> Problem Of The Day ==> scraped
-Bagging vs Boosting in Machine Learning -> Privacy Policy - GeeksforGeeks ==> scraped
-Bagging vs Boosting in Machine Learning -> Interview Corner ==> scraped
-Bagging vs Boosting in Machine Learning -> Decision Tree ==> scraped
-Bagging vs Boosting in Machine Learning -> School Tutorials ==> scraped
-Bagging vs Boosting in Machine Learning -> Course CatalogInteractive LIVE & Self-Paced Courses with Individual Attention by Industry Leading Gurus to Encourage Out-of-the-box thinking, leading to Clarity in Concepts, Creativity and Innovative Ideas.08069289001 ==> scraped
-Bagging vs Boosting in Machine Learning -> GeeksforGeeks | Videos ==> scraped
-Bagging vs Boosting in Machine Learning -> Soumya Sen - Software Engineer - Motorola Solutions | GeeksforGeeks Profile ==> scraped
-Bagging vs Boosting in Machine Learning -> GeeksforGeeks Hiring Solutions - GeeksforGeeks ==> scraped
-Bagging vs Boosting in Machine Learning -> Deep Learning Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> GfG 160 - 160 Days of Problem Solving ==> scraped
-Bagging vs Boosting in Machine Learning -> Web Development Technologies ==> scraped
-Bagging vs Boosting in Machine Learning -> Frequent Pattern Growth Algorithm ==> scraped
-Bagging vs Boosting in Machine Learning -> K means Clustering – Introduction ==> scraped
-Bagging vs Boosting in Machine Learning -> ML | Underfitting and Overfitting ==> scraped
-Bagging vs Boosting in Machine Learning -> What is Machine Learning Pipeline? ==> scraped
-Bagging vs Boosting in Machine Learning -> Python for Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Frequently Asked Questions ==> scraped
-Bagging vs Boosting in Machine Learning -> Programming Languages Tutorials ==> scraped
-Bagging vs Boosting in Machine Learning -> Semi-Supervised Learning in ML ==> scraped
-Bagging vs Boosting in Machine Learning -> Placement Training Program ==> scraped
-Bagging vs Boosting in Machine Learning -> What is Bagging classifier? ==> scraped
-Bagging vs Boosting in Machine Learning -> Course CatalogInteractive LIVE & Self-Paced Courses with Individual Attention by Industry Leading Gurus to Encourage Out-of-the-box thinking, leading to Clarity in Concepts, Creativity and Innovative Ideas.08069289001 ==> scraped
-Bagging vs Boosting in Machine Learning -> What is Unsupervised Learning? ==> scraped
-Bagging vs Boosting in Machine Learning -> GeeksforGeeks Practice - Leading Online Coding Platform ==> scraped
-Bagging vs Boosting in Machine Learning -> Computer Science Core Subjects ==> scraped
-Bagging vs Boosting in Machine Learning -> Random Forest Regression in Python ==> scraped
-Bagging vs Boosting in Machine Learning -> DSA Tutorial - Learn Data Structures and Algorithms ==> scraped
-Bagging vs Boosting in Machine Learning -> Computer Vision Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> Practice | GeeksforGeeks | A computer science portal for geeks ==> scraped
-Bagging vs Boosting in Machine Learning -> Principal Component Analysis(PCA) ==> scraped
-Bagging vs Boosting in Machine Learning -> Course CatalogInteractive LIVE & Self-Paced Courses with Individual Attention by Industry Leading Gurus to Encourage Out-of-the-box thinking, leading to Clarity in Concepts, Creativity and Innovative Ideas.08069289001 ==> scraped
-Bagging vs Boosting in Machine Learning -> Course CatalogInteractive LIVE & Self-Paced Courses with Individual Attention by Industry Leading Gurus to Encourage Out-of-the-box thinking, leading to Clarity in Concepts, Creativity and Innovative Ideas.08069289001 ==> scraped
-Bagging vs Boosting in Machine Learning -> Types of Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Bias and Variance in Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Feature Selection Techniques in Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Introduction to Machine Learning in R ==> scraped
-Bagging vs Boosting in Machine Learning -> Hierarchical Clustering in Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Java Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> Complete Machine Learning & Data Science Program ==> scraped
-Bagging vs Boosting in Machine Learning -> Puzzles ==> scraped
-Bagging vs Boosting in Machine Learning -> Community ==> scraped
-Bagging vs Boosting in Machine Learning -> Tech Interview 101 - From DSA to System Design for Working Professionals ==> scraped
-Bagging vs Boosting in Machine Learning -> Introduction to Dimensionality Reduction ==> scraped
-Bagging vs Boosting in Machine Learning -> Machine Learning with Python Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> Naive Bayes Classifiers ==> scraped
-Bagging vs Boosting in Machine Learning -> Artificial Intelligence Tutorial | AI Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> Regularization in Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Advertise with us ==> scraped
-Bagging vs Boosting in Machine Learning -> What is Feature Engineering? ==> scraped
-Bagging vs Boosting in Machine Learning -> Maths for Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Python Tutorial - Learn Python Programming Language ==> scraped
-Bagging vs Boosting in Machine Learning -> Ensemble Classifier | Data Mining ==> scraped
-Bagging vs Boosting in Machine Learning -> EDA - Exploratory Data Analysis in Python ==> scraped
-Bagging vs Boosting in Machine Learning -> Programming Languages Tutorials ==> scraped
-Bagging vs Boosting in Machine Learning -> What is Exploratory Data Analysis? ==> scraped
-Bagging vs Boosting in Machine Learning -> Course CatalogInteractive LIVE & Self-Paced Courses with Individual Attention by Industry Leading Gurus to Encourage Out-of-the-box thinking, leading to Clarity in Concepts, Creativity and Innovative Ideas.08069289001 ==> scraped
-Bagging vs Boosting in Machine Learning -> Self-Supervised Learning (SSL) ==> scraped
-Bagging vs Boosting in Machine Learning -> Pandas Tutorial ==> scraped
-Bagging vs Boosting in Machine Learning -> Supervised Machine Learning ==> scraped
-Bagging vs Boosting in Machine Learning -> Course CatalogInteractive LIVE & Self-Paced Courses with Individual Attention by Industry Leading Gurus to Encourage Out-of-the-box thinking, leading to Clarity in Concepts, Creativity and Innovative Ideas.08069289001 ==> scraped
-Bagging vs Boosting in Machine Learning -> Web Development Technologies ==> scraped
-Bagging vs Boosting in Machine Learning -> Data Structures and Algorithms - Self Paced [Online Course] ==> scraped
+Test Sites ==> scraped
+Test Sites -> About us ==> scraped
+Test Sites -> Feel free to contact us ==> scraped
+Test Sites -> Jobs ==> scraped
+Test Sites -> How to: ==> scraped
+Test Sites -> Streamline your data collection ==> scraped
+Test Sites -> Powerful web scraper
+						for regular and
+						professional use ==> scraped
+Test Sites -> Blog ==> scraped
+Test Sites -> ADVANCED WEB SCRAPING SOLUTIONS FOR ALL NEEDS ==> scraped
+Test Sites -> Browser Extension Privacy Policy ==> scraped
+Test Sites -> Installation ==> scraped
+Test Sites -> Test Sites ==> scraped
+Test Sites -> Web Scraper Screenshots ==> scraped
+Test Sites -> Website Privacy Policy ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> Blog -> Introduction to OpenRefine ==> scraped
+Test Sites -> Blog -> Why Should You Scrape Customer Reviews? ==> scraped
+Test Sites -> Blog -> Headless Scraping with Cheerio ==> scraped
+Test Sites -> Blog -> Update: Sitemap Wizard, AI-Powered Selector Generation and more ==> scraped
+Test Sites -> Blog -> Web Scraper 1.29.66 release - Updated Link Selector ==> scraped
+Test Sites -> Blog -> Scraping public data. Is it legal? ==> scraped
+Test Sites -> Blog -> Data Transformation with OpenRefine ==> scraped
+Test Sites -> Blog -> Web Scraper 0.5.0 Release ==> scraped
+Test Sites -> Blog -> How to find all the local restaurants in Yellow Pages using Web Scraper ==> scraped
+Test Sites -> Blog -> Scraping E-commerce the Classical Way ==> scraped
+Test Sites -> Blog -> Website State Setup: Expand your scrapers functionality ==> scraped
+Test Sites -> Blog -> A Quick Guide to CSS and jQuery Selectors for Web Scraper ==> scraped
+Test Sites -> Blog -> Scraping E-commerce the Fastest Way ==> scraped
+Test Sites -> Blog -> Data Analysis using Amazon Athena ==> scraped
+Test Sites -> Blog -> The Instrumental Role of Big Data in Our Lives ==> scraped
+Test Sites -> Blog -> In Need of Data? ==> scraped
+Test Sites -> Blog -> The Ultimate Web Scraping Guide. ==> scraped
+Test Sites -> Blog -> Web Scraper Cloud Parser feature release ==> scraped
+Test Sites -> Blog -> Web Scraper 1.75.7 release - post-click link access ==> scraped
+Test Sites -> Blog -> Web Scraper 0.6.5 release ==> scraped
+Test Sites -> Blog -> Is Sports Arbitrage Betting Real? ==> scraped
+Test Sites -> Blog -> Automated Crypto Visualization with the New Web Scraper Cloud Data Export Feature ==> scraped
+Test Sites -> Blog -> Data Cleaning with OpenRefine ==> scraped
+Test Sites -> Blog -> Brief History of Web Scraping ==> scraped
+Test Sites -> Blog -> 3 Ways In Which Web Scraping Can Improve Your Business And Save You Time. ==> scraped
+Test Sites -> Blog -> The Ultimate Tool for Big Data Access Using Google Sheets ==> scraped
+Test Sites -> Blog -> Fast-track your online Shopify business ==> scraped
+Test Sites -> Blog -> Data Transformation with Web Scraper. ==> scraped
+Test Sites -> Blog -> Most Frequently Asked Questions Answered. ==> scraped
+Test Sites -> Blog -> Web Scraper 1.29.60 release ==> scraped
+Test Sites -> Blog -> Web Scraper Cloud Data Quality and Notification Feature ==> scraped
+Test Sites -> Blog -> Web Scraper 1.79.3 release ==> scraped
+Test Sites -> Blog -> Coronavirus Pandemic Google Trends Analysis ==> scraped
+Test Sites -> Blog -> Extracting Data at Scale Using Web Scraper Cloud. ==> scraped
+Test Sites -> Blog -> Web Scraper 1.72.5 release -  UI updates and more ==> scraped
+Test Sites -> Blog -> Top 5 CSS Selectors You Need to Know. ==> scraped
+Test Sites -> Blog -> Web Scraper 0.4.0 release ==> scraped
+Test Sites -> Blog -> Scraping E-commerce through Brands ==> scraped
+Test Sites -> Blog -> The Importance of Data Visualization ==> scraped
+Test Sites -> Installation -> Element selector ==> scraped
+Test Sites -> Installation -> Text selector ==> scraped
+Test Sites -> Installation -> Installation ==> scraped
+Test Sites -> Blog -> Web Scraper 0.6.0 - Pagination Selector and More! ==> scraped
+Test Sites -> Installation -> CSS selector ==> scraped
+Test Sites -> Installation -> Link selector ==> scraped
+Test Sites -> Installation -> Website State Setup / Sign-in ==> scraped
+Test Sites -> Installation -> Strip HTML parser ==> scraped
+Test Sites -> Installation -> Virtual column parser ==> scraped
+Test Sites -> Installation -> Remove column parser ==> scraped
+Test Sites -> Installation -> Regex match parser ==> scraped
+Test Sites -> Installation -> Sitemap sync ==> scraped
+Test Sites -> Installation -> Open Web Scraper ==> scraped
+Test Sites -> Installation -> Data quality control ==> scraped
+Test Sites -> Installation -> API ==> scraped
+Test Sites -> Installation -> Element attribute selector ==> scraped
+Test Sites -> Installation -> Data export ==> scraped
+Test Sites -> Installation -> Notifications ==> scraped
+Test Sites -> Installation -> Sitemap.xml link selector ==> scraped
+Test Sites -> Installation -> Scheduler ==> scraped
+Test Sites -> Installation -> Webhook notifications ==> scraped
+Test Sites -> Installation -> HTML selector ==> scraped
+Test Sites -> Installation -> Table selector ==> scraped
+Test Sites -> Installation -> Replace text parser ==> scraped
+Test Sites -> Installation -> Scraping a site ==> scraped
+Test Sites -> Installation -> Pagination selector ==> scraped
+Test Sites -> Installation -> Remove whitespaces parser ==> scraped
+Test Sites -> Installation -> Image selector ==> scraped
+Test Sites -> Installation -> Append/Prepend text parser ==> scraped
+Test Sites -> Installation -> Convert UNIX timestamp parser ==> scraped
+Test Sites -> Installation -> Parser ==> scraped
+Test Sites -> Installation -> Selectors ==> scraped
+Test Sites -> Installation -> Element click selector ==> scraped
+Test Sites -> Installation -> Web Scraper Cloud ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: -> How to: ==> scraped
 
-Total pages scraped: 117
+Total pages scraped: 111
 Respected robots.txt: True
-Scraping completed at: 2025-09-10 01:23:13
+Scraping completed at: 2025-09-27 07:30:17

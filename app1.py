@@ -217,11 +217,13 @@ class AdvancedWebScraper:
         try:
             response = self.session.get(url, timeout=10)
             response.raise_for_status()
-            
-            # Handle encoding issues
+            # Do not assign to response.text (read-only). Use a local variable for HTML text.
             if not response.encoding or response.encoding.lower() == 'iso-8859-1':
-                response.text = self.handle_encoding(response)
-                
+                html_text = self.handle_encoding(response)
+            else:
+                html_text = response.text
+            # Attach html_text as a custom attribute for downstream use
+            response._html_text = html_text
             return response
         except requests.RequestException as e:
             logger.warning(f"Failed to fetch {url}: {e}")
@@ -231,33 +233,27 @@ class AdvancedWebScraper:
         """Scrape a single page and return its data"""
         if url in self.visited_urls:
             return None
-            
         self.visited_urls.add(url)
         logger.info(f"Scraping: {url} (Depth: {depth})")
-        
         try:
             response = self.fetch_page(url)
             if not response:
                 return None
-            
+            # Use the custom html_text attribute if present
+            html_text = getattr(response, '_html_text', response.text)
             # Parse HTML
-            soup = BeautifulSoup(response.text, 'html.parser')
-            
+            soup = BeautifulSoup(html_text, 'html.parser')
             # Extract page title
             page_title = self.get_page_title(soup, url)
-            
             # Extract content using the best available method
             if self.use_trafilatura:
-                content = self.extract_content_trafilatura(response.text, url)
+                content = self.extract_content_trafilatura(html_text, url)
             else:
-                content = self.extract_content_fallback(response.text)
-            
+                content = self.extract_content_fallback(html_text)
             # Extract links for further crawling
             links = self.get_page_links(url, soup) if depth < self.max_depth else []
-            
             # Try to get breadcrumb path for better navigation
             breadcrumb_path = self.get_breadcrumb_path(soup)
-            
             # Create page data
             page_data = {
                 'url': url,
@@ -269,12 +265,9 @@ class AdvancedWebScraper:
                 'breadcrumb': breadcrumb_path,
                 'scraped_at': time.strftime('%Y-%m-%d %H:%M:%S')
             }
-            
             # Add to navigation tree
             self.add_to_navigation_tree(url, page_title, depth, parent, breadcrumb_path)
-            
             return page_data
-            
         except Exception as e:
             logger.error(f"Error scraping {url}: {e}")
             return None
