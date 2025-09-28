@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Web Scraper Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background: #f7f7f7; }
+        .container { background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 2px 8px #ccc; max-width: 700px; margin: auto; }
+        h1 { color: #2c3e50; }
+        label { display: block; margin-top: 15px; }
+        input, button { padding: 8px; margin-top: 5px; width: 100%; }
+        .log { background: #222; color: #eee; padding: 10px; border-radius: 5px; height: 120px; overflow-y: auto; margin-top: 20px; }
+        .status { margin-top: 20px; }
+        .data-link { margin-top: 10px; display: block; }
+        .chart-container { position: relative; margin-top: 20px; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Web Scraper Dashboard</h1>
+    <form id="scrapeForm">
+        <label>Start URL:
+            <input type="text" id="url" value="https://example.com" required>
+        </label>
+        <label>Depth:
+            <input type="number" id="depth" value="2" min="1" max="10">
+        </label>
+        <label>Threads:
+            <input type="number" id="threads" value="3" min="1" max="10">
+        </label>
+        <label>Delay (seconds):
+            <input type="number" id="delay" value="0.5" step="0.1" min="0">
+        </label>
+        <button type="submit">Start Scraping</button>
+    </form>
+    <div class="status">
+        <strong>Status:</strong> <span id="statusText">Idle</span><br>
+        <strong>Pages Scraped:</strong> <span id="scrapedCount">0</span>
+        <a href="/data" class="data-link" target="_blank">Download Scraped Data (JSON)</a>
+        <button id="stopBtn" class="stop-btn" disabled>Stop Scraper</button>
+    </div>
+    <div class="log" id="logBox"></div>
+    <div class="chart-container">
+        <canvas id="progressChart" width="600" height="200"></canvas>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+    const form = document.getElementById('scrapeForm');
+    const statusText = document.getElementById('statusText');
+    const scrapedCount = document.getElementById('scrapedCount');
+    const logBox = document.getElementById('logBox');
+    const stopBtn = document.getElementById('stopBtn');
+
+    form.onsubmit = async (e) => {
+        e.preventDefault();
+        const url = document.getElementById('url').value;
+        const depth = document.getElementById('depth').value;
+        const threads = document.getElementById('threads').value;
+        const delay = document.getElementById('delay').value;
+        await fetch('/start', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ url, depth, threads, delay })
+        });
+        statusText.textContent = 'Started...';
+    };
+
+    stopBtn.onclick = async () => {
+        stopBtn.disabled = true;
+        await fetch('/stop', { method: 'POST' });
+    };
+
+    // Chart.js setup
+    let chart;
+    function updateChart(labels, data) {
+        if (!chart) {
+            const ctx = document.getElementById('progressChart').getContext('2d');
+            chart = new window.Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Pages Scraped',
+                        data: data,
+                        borderColor: '#3498db',
+                        fill: false
+                    }]
+                },
+                options: {
+                    responsive: false,
+                    scales: { x: { title: { display: true, text: 'Page' } }, y: { title: { display: true, text: 'Scraped' }, beginAtZero: true } }
+                }
+            });
+        } else {
+            chart.data.labels = labels;
+            chart.data.datasets[0].data = data;
+            chart.update();
+        }
+    }
+
+    async function pollStatus() {
+        const res = await fetch('/status');
+        const data = await res.json();
+        statusText.textContent = data.running ? 'Running' : 'Idle';
+        scrapedCount.textContent = data.scraped;
+        logBox.textContent = data.log.join('\n');
+        logBox.scrollTop = logBox.scrollHeight;
+        stopBtn.disabled = !data.running;
+        // Chart update
+        const cres = await fetch('/chart-data');
+        const cdata = await cres.json();
+        updateChart(cdata.labels, cdata.data);
+    }
+    setInterval(pollStatus, 1000);
+    pollStatus();
+    </script>
+</div>
+</body>
+</html>

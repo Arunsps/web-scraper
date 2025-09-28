@@ -2,119 +2,103 @@ Navigation Log
 ==================================================
 
 Test Sites ==> scraped
-Test Sites -> About us ==> scraped
+Test Sites -> Browser Extension Privacy Policy ==> scraped
+Test Sites -> Web Scraper Screenshots ==> scraped
 Test Sites -> Feel free to contact us ==> scraped
-Test Sites -> Jobs ==> scraped
+Test Sites -> ADVANCED WEB SCRAPING SOLUTIONS FOR ALL NEEDS ==> scraped
+Test Sites -> Blog ==> scraped
+Test Sites -> Installation ==> scraped
+Test Sites -> Website Privacy Policy ==> scraped
+Test Sites -> About us ==> scraped
 Test Sites -> How to: ==> scraped
 Test Sites -> Streamline your data collection ==> scraped
+Test Sites -> Jobs ==> scraped
 Test Sites -> Powerful web scraper
 						for regular and
 						professional use ==> scraped
-Test Sites -> Blog ==> scraped
-Test Sites -> ADVANCED WEB SCRAPING SOLUTIONS FOR ALL NEEDS ==> scraped
-Test Sites -> Browser Extension Privacy Policy ==> scraped
-Test Sites -> Installation ==> scraped
-Test Sites -> Test Sites ==> scraped
-Test Sites -> Web Scraper Screenshots ==> scraped
-Test Sites -> Website Privacy Policy ==> scraped
-Test Sites -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: ==> scraped
-Test Sites -> Blog -> Introduction to OpenRefine ==> scraped
-Test Sites -> Blog -> Why Should You Scrape Customer Reviews? ==> scraped
-Test Sites -> Blog -> Headless Scraping with Cheerio ==> scraped
-Test Sites -> Blog -> Update: Sitemap Wizard, AI-Powered Selector Generation and more ==> scraped
-Test Sites -> Blog -> Web Scraper 1.29.66 release - Updated Link Selector ==> scraped
-Test Sites -> Blog -> Scraping public data. Is it legal? ==> scraped
-Test Sites -> Blog -> Data Transformation with OpenRefine ==> scraped
-Test Sites -> Blog -> Web Scraper 0.5.0 Release ==> scraped
-Test Sites -> Blog -> How to find all the local restaurants in Yellow Pages using Web Scraper ==> scraped
-Test Sites -> Blog -> Scraping E-commerce the Classical Way ==> scraped
-Test Sites -> Blog -> Website State Setup: Expand your scrapers functionality ==> scraped
-Test Sites -> Blog -> A Quick Guide to CSS and jQuery Selectors for Web Scraper ==> scraped
-Test Sites -> Blog -> Scraping E-commerce the Fastest Way ==> scraped
-Test Sites -> Blog -> Data Analysis using Amazon Athena ==> scraped
-Test Sites -> Blog -> The Instrumental Role of Big Data in Our Lives ==> scraped
-Test Sites -> Blog -> In Need of Data? ==> scraped
-Test Sites -> Blog -> The Ultimate Web Scraping Guide. ==> scraped
-Test Sites -> Blog -> Web Scraper Cloud Parser feature release ==> scraped
-Test Sites -> Blog -> Web Scraper 1.75.7 release - post-click link access ==> scraped
-Test Sites -> Blog -> Web Scraper 0.6.5 release ==> scraped
-Test Sites -> Blog -> Is Sports Arbitrage Betting Real? ==> scraped
-Test Sites -> Blog -> Automated Crypto Visualization with the New Web Scraper Cloud Data Export Feature ==> scraped
-Test Sites -> Blog -> Data Cleaning with OpenRefine ==> scraped
-Test Sites -> Blog -> Brief History of Web Scraping ==> scraped
-Test Sites -> Blog -> 3 Ways In Which Web Scraping Can Improve Your Business And Save You Time. ==> scraped
-Test Sites -> Blog -> The Ultimate Tool for Big Data Access Using Google Sheets ==> scraped
-Test Sites -> Blog -> Fast-track your online Shopify business ==> scraped
-Test Sites -> Blog -> Data Transformation with Web Scraper. ==> scraped
-Test Sites -> Blog -> Most Frequently Asked Questions Answered. ==> scraped
-Test Sites -> Blog -> Web Scraper 1.29.60 release ==> scraped
-Test Sites -> Blog -> Web Scraper Cloud Data Quality and Notification Feature ==> scraped
-Test Sites -> Blog -> Web Scraper 1.79.3 release ==> scraped
 Test Sites -> Blog -> Coronavirus Pandemic Google Trends Analysis ==> scraped
-Test Sites -> Blog -> Extracting Data at Scale Using Web Scraper Cloud. ==> scraped
-Test Sites -> Blog -> Web Scraper 1.72.5 release -  UI updates and more ==> scraped
-Test Sites -> Blog -> Top 5 CSS Selectors You Need to Know. ==> scraped
+Test Sites -> Blog -> Update: Sitemap Wizard, AI-Powered Selector Generation and more ==> scraped
 Test Sites -> Blog -> Web Scraper 0.4.0 release ==> scraped
+Test Sites -> Blog -> Web Scraper 1.29.66 release - Updated Link Selector ==> scraped
+Test Sites -> Blog -> In Need of Data? ==> scraped
+Test Sites -> Blog -> Web Scraper 1.79.3 release ==> scraped
+Test Sites -> Blog -> The Instrumental Role of Big Data in Our Lives ==> scraped
+Test Sites -> Blog -> How to find all the local restaurants in Yellow Pages using Web Scraper ==> scraped
+Test Sites -> Blog -> Web Scraper 1.29.60 release ==> scraped
 Test Sites -> Blog -> Scraping E-commerce through Brands ==> scraped
+Test Sites -> Blog -> Website State Setup: Expand your scrapers functionality ==> scraped
+Test Sites -> Blog -> Web Scraper 1.72.5 release -  UI updates and more ==> scraped
+Test Sites -> Blog -> Why Should You Scrape Customer Reviews? ==> scraped
+Test Sites -> Blog -> The Ultimate Web Scraping Guide. ==> scraped
+Test Sites -> Blog -> Data Cleaning with OpenRefine ==> scraped
+Test Sites -> Blog -> Scraping public data. Is it legal? ==> scraped
+Test Sites -> Blog -> Most Frequently Asked Questions Answered. ==> scraped
+Test Sites -> Blog -> Web Scraper Cloud Data Quality and Notification Feature ==> scraped
+Test Sites -> Blog -> The Ultimate Tool for Big Data Access Using Google Sheets ==> scraped
+Test Sites -> Blog -> Scraping E-commerce the Classical Way ==> scraped
+Test Sites -> Blog -> Top 5 CSS Selectors You Need to Know. ==> scraped
+Test Sites -> Blog -> Web Scraper 1.75.7 release - post-click link access ==> scraped
+Test Sites -> Blog -> Data Analysis using Amazon Athena ==> scraped
+Test Sites -> Blog -> Data Transformation with OpenRefine ==> scraped
+Test Sites -> Blog -> Web Scraper Cloud Parser feature release ==> scraped
+Test Sites -> Blog -> Automated Crypto Visualization with the New Web Scraper Cloud Data Export Feature ==> scraped
+Test Sites -> Blog -> Brief History of Web Scraping ==> scraped
+Test Sites -> Blog -> Extracting Data at Scale Using Web Scraper Cloud. ==> scraped
+Test Sites -> Blog -> 3 Ways In Which Web Scraping Can Improve Your Business And Save You Time. ==> scraped
+Test Sites -> Blog -> Scraping E-commerce the Fastest Way ==> scraped
+Test Sites -> Blog -> Data Transformation with Web Scraper. ==> scraped
+Test Sites -> Blog -> Is Sports Arbitrage Betting Real? ==> scraped
 Test Sites -> Blog -> The Importance of Data Visualization ==> scraped
-Test Sites -> Installation -> Element selector ==> scraped
-Test Sites -> Installation -> Text selector ==> scraped
-Test Sites -> Installation -> Installation ==> scraped
 Test Sites -> Blog -> Web Scraper 0.6.0 - Pagination Selector and More! ==> scraped
-Test Sites -> Installation -> CSS selector ==> scraped
-Test Sites -> Installation -> Link selector ==> scraped
-Test Sites -> Installation -> Website State Setup / Sign-in ==> scraped
-Test Sites -> Installation -> Strip HTML parser ==> scraped
-Test Sites -> Installation -> Virtual column parser ==> scraped
-Test Sites -> Installation -> Remove column parser ==> scraped
-Test Sites -> Installation -> Regex match parser ==> scraped
+Test Sites -> Blog -> Headless Scraping with Cheerio ==> scraped
+Test Sites -> Blog -> Web Scraper 0.5.0 Release ==> scraped
+Test Sites -> Blog -> Introduction to OpenRefine ==> scraped
+Test Sites -> Blog -> Fast-track your online Shopify business ==> scraped
 Test Sites -> Installation -> Sitemap sync ==> scraped
-Test Sites -> Installation -> Open Web Scraper ==> scraped
-Test Sites -> Installation -> Data quality control ==> scraped
-Test Sites -> Installation -> API ==> scraped
-Test Sites -> Installation -> Element attribute selector ==> scraped
-Test Sites -> Installation -> Data export ==> scraped
-Test Sites -> Installation -> Notifications ==> scraped
-Test Sites -> Installation -> Sitemap.xml link selector ==> scraped
-Test Sites -> Installation -> Scheduler ==> scraped
-Test Sites -> Installation -> Webhook notifications ==> scraped
-Test Sites -> Installation -> HTML selector ==> scraped
-Test Sites -> Installation -> Table selector ==> scraped
-Test Sites -> Installation -> Replace text parser ==> scraped
-Test Sites -> Installation -> Scraping a site ==> scraped
-Test Sites -> Installation -> Pagination selector ==> scraped
+Test Sites -> Blog -> A Quick Guide to CSS and jQuery Selectors for Web Scraper ==> scraped
+Test Sites -> Blog -> Web Scraper 0.6.5 release ==> scraped
 Test Sites -> Installation -> Remove whitespaces parser ==> scraped
-Test Sites -> Installation -> Image selector ==> scraped
-Test Sites -> Installation -> Append/Prepend text parser ==> scraped
-Test Sites -> Installation -> Convert UNIX timestamp parser ==> scraped
-Test Sites -> Installation -> Parser ==> scraped
+Test Sites -> Installation -> Open Web Scraper ==> scraped
+Test Sites -> Installation -> Installation ==> scraped
+Test Sites -> Installation -> CSS selector ==> scraped
+Test Sites -> Installation -> Web Scraper Cloud ==> scraped
+Test Sites -> Installation -> Website State Setup / Sign-in ==> scraped
+Test Sites -> Installation -> Data export ==> scraped
+Test Sites -> Installation -> HTML selector ==> scraped
+Test Sites -> Installation -> API ==> scraped
 Test Sites -> Installation -> Selectors ==> scraped
 Test Sites -> Installation -> Element click selector ==> scraped
-Test Sites -> Installation -> Web Scraper Cloud ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
-Test Sites -> How to: -> How to: -> How to: ==> scraped
+Test Sites -> Installation -> Strip HTML parser ==> scraped
+Test Sites -> Installation -> Notifications ==> scraped
+Test Sites -> Installation -> Remove column parser ==> scraped
+Test Sites -> Installation -> Table selector ==> scraped
+Test Sites -> Installation -> Append/Prepend text parser ==> scraped
+Test Sites -> Installation -> Regex match parser ==> scraped
+Test Sites -> Installation -> Parser ==> scraped
+Test Sites -> Installation -> Sitemap.xml link selector ==> scraped
+Test Sites -> Installation -> Replace text parser ==> scraped
+Test Sites -> Installation -> Scheduler ==> scraped
+Test Sites -> Installation -> Pagination selector ==> scraped
+Test Sites -> Installation -> Element attribute selector ==> scraped
+Test Sites -> Installation -> Data quality control ==> scraped
+Test Sites -> Installation -> Image selector ==> scraped
+Test Sites -> Installation -> Virtual column parser ==> scraped
+Test Sites -> Installation -> Scraping a site ==> scraped
+Test Sites -> Installation -> Link selector ==> scraped
+Test Sites -> Installation -> Webhook notifications ==> scraped
+Test Sites -> Installation -> Text selector ==> scraped
+Test Sites -> Installation -> Element selector ==> scraped
+Test Sites -> Installation -> Convert UNIX timestamp parser ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
+Test Sites -> How to: -> How to: ==> scraped
 
-Total pages scraped: 111
+Total pages scraped: 95
 Respected robots.txt: True
-Scraping completed at: 2025-09-27 07:30:17
+Scraping completed at: 2025-09-28 14:08:07
